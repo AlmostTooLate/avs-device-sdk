@@ -19,6 +19,7 @@ Feature enhancements, updates, and resolved issues from all releases are availab
 You can set up the SDK on the following platforms:
 * [Ubuntu Linux](https://developer.amazon.com/docs/alexa/avs-device-sdk/ubuntu.html)
 * [Raspberry Pi](https://developer.amazon.com/docs/alexa/avs-device-sdk/raspberry-pi.html)
+NEED PRE INSTALL: sudo apt-get install libcurl4-openssl-dev
 * [macOS](https://developer.amazon.com/docs/alexa/avs-device-sdk/mac-os.html)
 * [Windows 64-bit](https://developer.amazon.com/docs/alexa/avs-device-sdk/windows-64.html)
 * [Generic Linux](https://developer.amazon.com/docs/alexa/avs-device-sdk/linux.html)
